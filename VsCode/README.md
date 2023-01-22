@@ -38,7 +38,7 @@ O Habits e projeto feito pra rastrear hábitos 🚀
 
 Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/U8lIkmxpjoIY5T2ijMd2QP/Habits-(e)-(Community)?node-id=6%3A910&t=1F6aI1qlRAfp5AtD-0>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-## :memo: Licença
+## 🌐 Licença
 
 Esse projeto está sob a licença MIT.
 
