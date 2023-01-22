@@ -33,6 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O Habits e projeto feito pra rastrear hábitos 🚀
+-[-Visite meu projeto online! OwO](https://miguel-gadelha-cavalcante.github.io/nlw-Setup/)
 
 ## 🔖 Layout
 
